@@ -20,7 +20,7 @@ h1, h2, h3{
 a {
 	text-decoration: none;
 }
-h2 span{
-    background:#fff; 
+h1 span{
+    background: #F1EEE6; 
     padding:0 10px;
 }
