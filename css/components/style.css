@@ -2,11 +2,11 @@
 
 @import url("components/container.css");
 @import url("components/button.css");
-@import url("components/titleline.css");
 
 body {
 	font-family: 'Montserrat', sans-serif;
 	font-size:  18px;
+	background-color: #F1EEE6;
 }
 h1, h2, h3{
 	font-family: 'Libre Baskerville', sans-serif;
