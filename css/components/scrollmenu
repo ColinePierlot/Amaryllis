@@ -6,7 +6,7 @@
 
 .scrollmenu a {
   display: inline-block;
-  color: #A5B99C;
+  color: black;
   text-align: center;
   padding: 14px;
   text-decoration: none;
@@ -14,4 +14,5 @@
 
 .scrollmenu a:hover {
   background-color: #F1EEE6;
+  color: #A5B99C;
 }
