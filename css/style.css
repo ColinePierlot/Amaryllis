@@ -8,6 +8,7 @@
 @import url(components/card.css);
 @import url(components/avatar.css);
 @import url(components/list-inline.css);
+@import url(components/search-bar.css);
 
 body {
 	font-family: 'Montserrat', sans-serif;
