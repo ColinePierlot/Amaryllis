@@ -1,40 +1,39 @@
-/* Add a black background color to the top navigation bar */
 .search-bar {
-  overflow: hidden;
-  background-color: #e9e9e9;
+  box-sizing: border-box;
 }
 
-/* Style the links inside the navigation bar */
-.search-bar a {
+/* Style the search field */
+form.example input[type=text] {
+  padding: 10px;
+  font-size: 17px;
+  border: 1px solid grey;
   float: left;
-  display: block;
-  color: black;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
+  width: 40%;
+  background: #f1f1f1;
 }
 
-/* Change the color of links on hover */
-.search-bar a:hover {
-  background-color: #ddd;
-  color: black;
-}
-
-/* Style the "active" element to highlight the current page */
-.search-bar a.active {
-  background-color: #A5B99C;
+/* Style the submit button */
+form.example button {
+  float: left;
+  width: 10%;
+  padding: 10px;
+  background: #A5B99C;
   color: white;
+  font-size: 17px;
+  border: 1px solid grey;
+  border-left: none; /* Prevent double borders */
+  cursor: pointer;
 }
 
-/* Style the search box inside the navigation bar */
-.search-bar input[type=text] {
-  float: right;
-  padding: 6px;
-  border: none;
-  margin-top: 8px;
-  margin-right: 16px;
-  font-size: 17px;
+form.example button:hover {
+  background: #C07C19;
+}
+
+/* Clear floats */
+form.example::after {
+  content: "";
+  clear: both;
+  display: table;
 }
 
 /* When the screen is less than 600px wide, stack the links and the search field vertically instead of horizontally */
@@ -50,4 +49,3 @@
   .search-bar input[type=text] {
     border: 1px solid #ccc;
   }
-}
