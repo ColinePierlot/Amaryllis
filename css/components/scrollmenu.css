@@ -2,6 +2,8 @@
   background-color: #F1EEE6;
   overflow: auto;
   white-space: nowrap;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .scrollmenu a {
