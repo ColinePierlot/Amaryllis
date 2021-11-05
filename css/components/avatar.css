@@ -2,8 +2,11 @@
 	width: 60px;
 	height:  60px;
 	border-radius: 50%;
-	display: inline;
 	padding-left: 0px;
-        padding: 10px;
 	list-style: none;
+}
+
+.avatar li {
+	display: inline;
+	padding: 10px;
 }
