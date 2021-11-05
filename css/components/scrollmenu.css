@@ -3,6 +3,7 @@
   overflow: auto;
   white-space: nowrap;
   margin: 0 auto;
+  background-position: center;
 }
 
 .scrollmenu a {
