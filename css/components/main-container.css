@@ -1,0 +1,10 @@
+.main-container {
+  width: 100%;
+  margin: 0 auto;
+  display: inline;
+  justify-content: center; /* for centering 3 blocks in the center */
+  /* justify-content: space-between; for space in between */ 
+}
+.block {
+  width: 100px;
+}
