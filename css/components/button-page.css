@@ -1,0 +1,9 @@
+.btn-page a{
+	padding:  5px 10px;
+	color: black;
+	font-weight: bold;
+	font-family:  'Libre Baskerville', sans-serif;
+}
+.btn-page a:hover {
+	color: #A5B99C;
+}
