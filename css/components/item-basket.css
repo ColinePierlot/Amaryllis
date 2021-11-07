@@ -1,13 +1,13 @@
 .category-basket {
     list-style: none;
-    padding-left: 0px;
+    padding-left: 15px;
     margin-bottom: 10px;
     text-align: left;
     }
 
 .category-basket li{
     display: inline-block;
-    padding: 10px;
+    padding: 15px;
 }
 
 .category-basket i{
