@@ -20,6 +20,7 @@
 @import url(components/sign-up.css);
 @import url(components/personal-information.css);
 @import url(components/button-pink.css);
+@import url(components/button-page.css);
 
 body {
 	font-family: 'Montserrat', sans-serif;
