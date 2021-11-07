@@ -2,6 +2,7 @@
     list-style: none;
     padding-left: 0px;
     margin-bottom: 10px;
+    text-align: left;
     }
 
 .category-basket li{
@@ -11,5 +12,5 @@
 
 .category-basket i{
     font-size: 50px;
-    color: rgb(96;119,85);
+    color: rgb(96, 119, 85);
 }
