@@ -14,6 +14,10 @@
 @import url(components/last-name.css);
 @import url(components/banner-general.css);
 @import url(components/main-container.css);
+@import url(components/email-address.css);
+@import url(components/password.css);
+@import url(components/sign-in.css);
+@import url(components/sign-up.css);
 
 body {
 	font-family: 'Montserrat', sans-serif;
