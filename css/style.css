@@ -19,8 +19,9 @@
 @import url(components/sign-in.css);
 @import url(components/sign-up.css);
 @import url(components/personal-information.css);
-@import url(components/button-pink.css);
 @import url(components/button-page.css);
+@import url(components/types-of-costs.css);
+
 
 body {
 	font-family: 'Montserrat', sans-serif;
