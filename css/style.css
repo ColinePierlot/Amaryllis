@@ -18,6 +18,7 @@
 @import url(components/password.css);
 @import url(components/sign-in.css);
 @import url(components/sign-up.css);
+@import url(components/personal-information.css);
 
 body {
 	font-family: 'Montserrat', sans-serif;
