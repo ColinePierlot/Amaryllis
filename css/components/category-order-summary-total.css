@@ -1,0 +1,18 @@
+.category-order-summary-total {
+    list-style: none;
+    padding-left: 30px;
+    margin-bottom: 10px;
+    text-align: left;
+    font-weight:  bold;
+    background-color: #A5B99C;
+    }
+
+.category-order-summary-total li{
+    display: inline-block;
+    padding: 50px;
+}
+
+.category-order_summary-total i{
+    font-size: 50px;
+    color: rgb(96, 119, 85);
+}

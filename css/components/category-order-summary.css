@@ -1,0 +1,17 @@
+.category-order-summary {
+    list-style: none;
+    padding-left: 30px;
+    margin-bottom: 10px;
+    text-align: left;
+    font-weight:  bold;
+    }
+
+.category-order-summary li{
+    display: inline-block;
+    padding: 50px;
+}
+
+.category-order_summary i{
+    font-size: 50px;
+    color: rgb(96, 119, 85);
+}
