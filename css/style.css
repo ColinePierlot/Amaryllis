@@ -38,9 +38,7 @@ h1, h2, h3{
 	font-weight:  bold;
 	text-align: center;
 }
-a {
-	text-decoration: none;
-}
+
 h1 span{
     background: #F1EEE6; 
     padding:0 10px;
