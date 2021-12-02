@@ -25,6 +25,8 @@
 @import url(components/category-basket.css);
 @import url(components/btn-beige-createaccountwhensigningin)
 @import url(components/gender-indication.css)
+@import url(components/category-order-summary);
+@import url(components/category-order-summary-total);
 
 
 body {
