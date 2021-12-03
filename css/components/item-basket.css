@@ -1,28 +1,4 @@
-.item-basket {
-    
-    display: table; 
-  width: 100%; 
-  table-layout: fixed; 
-  word-spacing: -2em;
-    }
-
-.item-basket li{
-    display: inline-block;
-    padding: 0px;
-    width 200px;
-}
-
-.item-basket i{
-    font-size: 50px;
-    color: rgb(96, 119, 85);
-}
-
-label {
-    display: block;
-    font: 1rem 'Fira Sans', sans-serif;
-}
-
-input,
-label {
-    margin: .4rem 0;
+td /* Toutes les cellules des tableaux... */
+{
+    border: 1px solid black; /* auront une bordure de 1px */
 }
