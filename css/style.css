@@ -27,6 +27,7 @@
 @import url(components/gender-indication.css);
 @import url(components/category-order-summary.css);
 @import url(components/category-order-summary-total.css);
+@import url(components/payment-card.css);
 
 
 body {
