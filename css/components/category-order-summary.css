@@ -1,14 +1,14 @@
 .category-order-summary {
     list-style: none;
     padding-left: 30px;
-    margin-bottom: 5px;
+    margin-bottom: 3px;
     text-align: left;
     font-weight:  bold;
     }
 
 .category-order-summary li{
     display: inline-block;
-    padding: 30px;
+    padding: 20px;
 }
 
 .category-order_summary i{
