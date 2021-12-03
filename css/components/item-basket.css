@@ -1,8 +1,9 @@
 .item-basket {
-    list-style: none;
-    padding-left: 20px;
-    margin-bottom: 10px;
-    text-align: left;
+    
+    display: table; 
+  width: 100%; 
+  table-layout: fixed; 
+  word-spacing: -2em;
     }
 
 .item-basket li{
