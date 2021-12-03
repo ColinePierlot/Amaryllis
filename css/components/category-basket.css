@@ -1,17 +1,4 @@
-.category-basket {
-    list-style: none;
-    padding-left: 30px;
-    margin-bottom: 10px;
-    text-align: left;
-    font-weight:  bold;
-    }
-
-.category-basket li{
-    display: inline-block;
-    padding: 50px;
-}
-
-.category-basket i{
-    font-size: 50px;
-    color: rgb(96, 119, 85);
+td /* Toutes les cellules des tableaux... */
+{
+    border: 1px solid black; /* auront une bordure de 1px */
 }
